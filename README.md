@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently college student<br>🌱 I like programming in python <br>
+🔭 I’m currently a college student<br>🌱 I like programming in python <br>
 
 
 ## 🌐 Socials:
